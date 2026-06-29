@@ -1,0 +1,5 @@
+{
+  "likely_ai": "This content was likely generated or substantially assisted by AI. Our system's confidence in this assessment is {band}. This estimate may be less reliable for non-native English or highly formal writing.",
+  "uncertain": "We could not confidently determine whether this content was AI-generated or human-written. Treat the authorship of this piece as unverified.",
+  "likely_human": "This content appears to be human-written. Our system's confidence in this assessment is {band}. This estimate may be less reliable for non-native English or highly formal writing."
+}

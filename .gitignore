@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+logs/*.jsonl
+# Ignore runtime SQLite databases and Flask logs
+data/*.db
+flask_error.log
+data/audit.db
